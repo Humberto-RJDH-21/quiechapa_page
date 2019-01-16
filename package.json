@@ -51,6 +51,7 @@
     "sass-loader": "^7.1.0",
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
-    "typescript": "~2.9.2"
+    "typescript": "~2.9.2",
+    "webpack-dev-server": "^3.1.14"
   }
 }
